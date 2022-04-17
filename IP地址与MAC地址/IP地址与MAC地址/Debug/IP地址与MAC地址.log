@@ -1,0 +1,7 @@
+﻿  源.cpp
+E:\source\repos\IP地址与MAC地址\IP地址与MAC地址\源.cpp(110,41): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\source\repos\IP地址与MAC地址\IP地址与MAC地址\源.cpp(173,38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\source\repos\IP地址与MAC地址\IP地址与MAC地址\源.cpp(215,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\source\repos\IP地址与MAC地址\IP地址与MAC地址\源.cpp(87,24): warning C4101: “MIP”: 未引用的局部变量
+E:\source\repos\IP地址与MAC地址\IP地址与MAC地址\源.cpp(81,11): warning C4101: “ip”: 未引用的局部变量
+  IP地址与MAC地址.vcxproj -> E:\source\repos\IP地址与MAC地址\Debug\IP地址与MAC地址.exe
